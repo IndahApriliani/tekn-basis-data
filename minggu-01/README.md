@@ -2,6 +2,7 @@
 
 ---
 
+Latihan  
 ![gb.1](gb1.png)
 ![gb.2](gb2.png)
 ![gb.3](gb3.png)
@@ -17,6 +18,10 @@
 ![gb.13](gb13.png)
 ![gb.14](gb14.png)
 ![gb.15](gb15.png)
-![gb.16](gb16.png)
+![gb.16](gb16.png)  
+
+---
+
+Tugas  
 ![gb.17](gb17.png)
 ![gb.18](gb18.png)

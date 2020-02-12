@@ -19,3 +19,8 @@ Tugas
 ![gb.10](gb10.png)
 ![gb.11](gb11.png)
 ![gb.12](gb12.png)
+![gb.13](gb13.png)
+![gb.14](gb14.png)
+![gb.15](gb15.png)
+![gb.16](gb16.png)
+![gb.17](gb17.png)
